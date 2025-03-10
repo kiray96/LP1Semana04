@@ -50,5 +50,8 @@ namespace BetterDecorador
             // Retornar o resultado
             return result;
         }
+
+        private static string Decor() => Decor("User did not specify args !", '=', 3);
+        
     }
 }
