@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterDecorador", "BetterDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Special", "Special\Special.csproj", "{7142EF3B-02FC-4A63-A87C-3C8C2C94B43E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuesAndReferences", "ValuesAndReferences\ValuesAndReferences.csproj", "{8DAFC623-378B-4E31-92C1-6ABF13FD9E2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{7142EF3B-02FC-4A63-A87C-3C8C2C94B43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7142EF3B-02FC-4A63-A87C-3C8C2C94B43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7142EF3B-02FC-4A63-A87C-3C8C2C94B43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAFC623-378B-4E31-92C1-6ABF13FD9E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAFC623-378B-4E31-92C1-6ABF13FD9E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAFC623-378B-4E31-92C1-6ABF13FD9E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAFC623-378B-4E31-92C1-6ABF13FD9E2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
